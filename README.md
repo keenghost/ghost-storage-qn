@@ -9,7 +9,7 @@
 
 ## Config
 
-``` json
+``` javascript
 {
   ...,
   "storage": {
