@@ -1,0 +1,22 @@
+{
+  "name": "ghost-storage-qn",
+  "version": "0.0.1",
+  "description": "qiniu storage for ghost",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keenghost/ghost-storage-qn.git"
+  },
+  "license": "MIT",
+  "author": "keenghost",
+  "keywords": [
+    "ghost",
+    "qiniu"
+  ],
+  "dependencies": {
+    "ghost-storage-base": "0.0.5",
+    "qn": "1.3.0"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
